@@ -1,4 +1,4 @@
-# Hi, I'm Paweł! 👋
+# Paweł Hiszpański
 
 🎓 **2nd-year Computer Science Student at Gdańsk University of Technology**
 💻 **Core Technologies:** C | C++
@@ -13,15 +13,23 @@ I am a passionate and growth-oriented software developer. I am constantly develo
 *   **Architecture & Full-stack:** Designing system architectures using UML and implementing backends (Node.js, Flask, SQLite/MS SQL).
 
 ### 🛠️ Tech Stack & Tools
-*   **Languages:** C/C++, Python, JavaScript, Java, x86 asm
-*   **Databases:** MS SQL, SQLite
-*   **Tools & Concepts:** Git, UML System Design, Object-Oriented Programming (OOP)
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawelhiszpanski&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelhiszpanski&layout=compact&theme=radium" alt="Top Languages" />
-</p>
+📊 **Languages:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-x86-red?style=for-the-badge)
+
+🗄️ **Databases & Architecture:**
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![UML](https://img.shields.io/badge/UML-Diagrams-blueviolet?style=for-the-badge)
+
+🔧 **Tools & Ecosystem:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📫 Let's connect!
-*   **LinkedIn:** www.linkedin.com/in/paweł-hiszpański-a3ba3b401
+*   **LinkedIn:** [www.linkedin.com/in/pawel-hiszpański-a3ba3b401]
