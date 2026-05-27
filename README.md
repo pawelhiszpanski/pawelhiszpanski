@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Paweł! 👋
 
-<!--
-**pawelhiszpanski/pawelhiszpanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **2nd-year Computer Science Student at Gdańsk University of Technology**
+💻 **Core Technologies:** C | C++
+🔧 **Familiar with:** Python | JavaScript | Java
 
-Here are some ideas to get you started:
+I am a passionate and growth-oriented software developer. I am constantly developing my skills, and I love combining my academic knowledge with building my own personal projects. For me, software development is about continuous personal growth, expanding my technical horizons, and constantly learning new tools and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently working on & learning
+*   **Systems & Tools:** Exploring the internals of data structures and databases (e.g., my `redis_clone` project in C++).
+*   **Graphics & Engines:** Diving into 3D rendering and coordinate transformations using OpenGL.
+*   **Apps & Games:** Building classic projects (Snake, Jumping Frog, vanilla JS clickers) to refine my logic and algorithmic thinking.
+*   **Architecture & Full-stack:** Designing system architectures using UML and implementing backends (Node.js, Flask, SQLite/MS SQL).
+
+### 🛠️ Tech Stack & Tools
+*   **Languages:** C/C++, Python, JavaScript, Java, x86 asm
+*   **Databases:** MS SQL, SQLite
+*   **Tools & Concepts:** Git, UML System Design, Object-Oriented Programming (OOP)
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawelhiszpanski&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawelhiszpanski&layout=compact&theme=radium" alt="Top Languages" />
+</p>
+
+### 📫 Let's connect!
+*   **LinkedIn:** www.linkedin.com/in/paweł-hiszpański-a3ba3b401
