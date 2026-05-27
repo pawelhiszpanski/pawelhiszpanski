@@ -1,7 +1,7 @@
 # Paweł Hiszpański
 
-🎓 **2nd-year Computer Science Student at Gdańsk University of Technology**
-💻 **Core Technologies:** C | C++
+🎓 **2nd-year Computer Science Student at Gdańsk University of Technology** <br>
+💻 **Core Technologies:** C | C++ <br>
 🔧 **Familiar with:** Python | JavaScript | Java
 
 I am a passionate and growth-oriented software developer. I am constantly developing my skills, and I love combining my academic knowledge with building my own personal projects. For me, software development is about continuous personal growth, expanding my technical horizons, and constantly learning new tools and technologies.
