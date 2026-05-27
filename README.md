@@ -32,4 +32,4 @@ I am a passionate and growth-oriented software developer. I am constantly develo
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📫 Let's connect!
-*   **LinkedIn:** [www.linkedin.com/in/pawel-hiszpański-a3ba3b401/]
+*   **LinkedIn:** [www.linkedin.com/in/pawel-hiszpański-a3ba3b401](https://www.linkedin.com/in/pawel-hiszpa%C5%84ski-a3ba3b401)
